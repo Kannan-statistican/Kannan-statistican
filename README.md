@@ -8,12 +8,11 @@
 - 👀 I'm passionate about Data Science and Machine Learning.
 - 🌱 Currently pursuing Data Science and Machine Learning courses in Entri Elevate.
 - 💞️ Let's collaborate on innovative AI and ML projects that drive real-world impact!
-- 📫 Reach me at [kannanrajendran188@gmail.com]
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: Lifelong learner, always curious!
 
 ## 🔗Connect with me  
-kannanrajendran188@gmail.com| [LikedIn]([www.linkedin.com/in/kannanrajendran-data-enthusiast]).
+- 📫 Reach me at kannanrajendran188@gmail.com| [LikedIn](www.linkedin.com/in/kannanrajendran-data-enthusiast).
 
 Mayiladuthurai, Tamil Nadu - 609 801 | +91 8939175686.
 
