@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Lifelong learner, always curious!
 
 ## 🔗Connect with me  
-- 📫 Reach me at kannanrajendran188@gmail.com| [LikedIn]([www.linkedin.com/in/kannanrajendran-data-enthusiast]).
+- 📫 Reach me at kannanrajendran188@gmail.com| [LikedIn][www.linkedin.com/in/kannanrajendran-data-enthusiast].
 
 Mayiladuthurai, Tamil Nadu - 609 801 | +91 8939175686.
 
