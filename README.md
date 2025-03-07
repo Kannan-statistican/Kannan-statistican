@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Kannan
+- ![Kannan R ](https://github.com/Kannan-statistican/Kannan-statistican/blob/main/My%20pic.jpeg?raw=true)
 - 👀 I'm passionate about Data Science and Machine Learning.
 - 🌱 Currently pursuing Data Science and Machine Learning courses in Entri Elevate.
 - 💞️ Let's collaborate on innovative AI and ML projects that drive real-world impact!
