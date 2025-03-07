@@ -1,6 +1,5 @@
 # Welcome To My Profile!
-
-- ![Kannan R ](https://github.com/Kannan-statistican/Kannan-statistican/blob/main/My%20pic.jpeg?raw=true)
+![Kannan R ](https://github.com/Kannan-statistican/Kannan-statistican/blob/main/My%20pic.jpeg?raw=true)
 ## <div align="center">KANNAN R</div>  
 | [View Resume](https://drive.google.com/file/d/1keVZAXPsc_jQSUok3L9fXnqXuNbFSiQf/view?usp=sharing) | 
 |    :----:   |
